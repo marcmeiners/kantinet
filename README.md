@@ -2,7 +2,7 @@
 
 > I've created this website at the age of 18 from scratch, without using any frameworks and with very limited knowledge of Web Development.
 
-As part of my Matura work, I created the following textbook exchange named kantinet. 
+As part of my Matura work, I created a textbook exchange named kantinet. The paper (german) can be found [HERE](kantinet.pdf).
 - A tool was created in the form of a website that should allow highschool pupils from Zurich to sell textbooks that they no longer need and to purchase used copies.
 - The website is fully interactive and automated: it has a registration and login solution, as well as a user-friendly dashboard where books and user data can be managed. 
 - In the books overview, the books available for sale can be viewed, filtered and finally bought. 
